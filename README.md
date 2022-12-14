@@ -1,2 +1,2 @@
-# desafio-github-primeiro-repositorio
-Desafio de Projeto - Primeiro repositório do Bootcamp OrangeTech+
+# Bootcamp-OrangeTechPlus
+Repositório para os projetos do Bootcamp OrangeTech+
